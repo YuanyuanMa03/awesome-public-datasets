@@ -70,41 +70,6 @@ Climate+Weather
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WorldClim.yml>`_]
       
-DataChallenges
---------------
-        
-* |OK_ICON| `AIcrowd Competitions <https://www.aicrowd.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/AIcrowd-Competitions.yml>`_]
-        
-* |OK_ICON| `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Bruteforce-Database.yml>`_]
-        
-* |OK_ICON| `Challenges in Machine Learning <http://www.chalearn.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Challenges-in-Machine-Learning.yml>`_]
-        
-* |FIXME_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/CrowdANALYTIX-dataX.yml>`_]
-        
-* |FIXME_ICON| `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/D4D-Challenge-of-Orange.yml>`_]
-        
-* |OK_ICON| `DrivenData Competitions for Social Good <http://www.drivendata.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/DrivenData-Competitions-for-Social-Good.yml>`_]
-        
-* |OK_ICON| `ICWSM Data Challenge (since 2009) <https://www.icwsm.org/2018/datasets/datasets/#obtaining>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/ICWSM-Data-Challenge-since-2009.yml>`_]
-        
-* |OK_ICON| `KDD Cup by Tencent 2012 <http://www.kddcup2012.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/KDD-Cup-by-Tencent-2012.yml>`_]
-        
-* |OK_ICON| `Kaggle Competition Data <https://www.kaggle.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Kaggle-Competition-Data.yml>`_]
-        
-* |OK_ICON| `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Localytics-Data-Visualization-Challenge.yml>`_]
-        
-* |OK_ICON| `Netflix Prize <https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Netflix-Prize.yml>`_]
-        
-* |OK_ICON| `Space Apps Challenge <https://2015.spaceappschallenge.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Space-Apps-Challenge.yml>`_]
-        
-* |FIXME_ICON| `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Telecom-Italia-Big-Data-Challenge.yml>`_]
-        
-* |FIXME_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
-        
-* |FIXME_ICON| `TunedIT - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TunedIT.yml>`_]
-        
-* |FIXME_ICON| `Yelp Dataset Challenge - The Yelp dataset is a subset of our businesses, reviews, and user [...] <http://www.yelp.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Yelp-Dataset-Challenge.yml>`_]
-    
 EarthScience
 ------------
         
@@ -253,38 +218,7 @@ Energy
 * |OK_ICON| `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/WHITED.yml>`_]
         
 * |OK_ICON| `iAWE <http://iawe.github.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/iAWE.yml>`_]
-       
-Finance
--------
-        
-* |OK_ICON| `BIS Statistics - BIS statistics, compiled in cooperation with central banks and other [...] <https://www.bis.org/statistics/full_data_sets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/BIS Statistics.yml>`_]
-        
-* |OK_ICON| `Blockmodo Coin Registry - A registry of JSON formatted information files that is primarily [...] <https://github.com/Blockmodo/coin_registry>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Blockmodo-Coin-Registry>`_]
-        
-* |FIXME_ICON| `CBOE Futures Exchange <http://cfe.cboe.com/market-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/CBOE-Futures-Exchange.yml>`_]
-        
-* |OK_ICON| `Complete FAANG Stock data - This data set contains all the stock data of FAANG companies from [...] <https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/FAANG-StockData.yml>`_]
-        
-* |OK_ICON| `Google Finance <https://www.google.com/finance>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`_]
-        
-* |OK_ICON| `Google Trends <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Trends.yml>`_]
-        
-* |OK_ICON| `NASDAQ <https://data.nasdaq.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/NASDAQ.yml>`_]
-        
-* |OK_ICON| `NYSE Market Data <ftp://ftp.nyxdata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/NYSE-Market-Data.yml>`_]
-        
-* |FIXME_ICON| `OANDA <http://www.oanda.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OANDA.yml>`_]
-        
-* |FIXME_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OSU-Financial-data.yml>`_]
-        
-* |OK_ICON| `Quandl <https://www.quandl.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Quandl.yml>`_]
-        
-* |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
-        
-* |OK_ICON| `St Louis Federal <https://research.stlouisfed.org/fred2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
-        
-* |FIXME_ICON| `Yahoo Finance <http://finance.yahoo.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Yahoo-Finance.yml>`_]
-    
+
 GIS
 ---
         
@@ -675,92 +609,7 @@ MachineLearning
 * |OK_ICON| `Youtube 8m <https://research.google.com/youtube8m/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Youtube-8m.yml>`_]
         
 * |OK_ICON| `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/eBay-Online-Auctions-2012.yml>`_]
-    
-NaturalLanguage
----------------
         
-* |OK_ICON| `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Automatic-Keyphrase-Extraction.yml>`_]
-        
-* |FIXME_ICON| `The Big Bad NLP Database <https://datasets.quantumstat.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/BigBadNLPDatabase.yml>`_]
-        
-* |FIXME_ICON| `Blizzard Challenge Speech - The speech + text data comes from professional audiobooks [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blizzard-Speech.yml>`_]
-        
-* |FIXME_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blogger-Corpus.yml>`_]
-        
-* |OK_ICON| `CLiPS Stylometry Investigation Corpus <https://zenodo.org/record/4639616>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/CLiPS-Stylometry-Investigation-Corpus.yml>`_]
-        
-* |OK_ICON| `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb09-FACC.yml>`_]
-        
-* |OK_ICON| `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb12-FACC.yml>`_]
-        
-* |OK_ICON| `DBpedia - Structured data from Wikipedia <https://databus.dbpedia.org/dbpedia/collections/latest-core>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/DBpedia.yml>`_]
-        
-* |OK_ICON| `Dirty Words - With millions of images in our library and billions of user-submitted keywords, [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Dirty-Words.yml>`_]
-        
-* |FIXME_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
-        
-* |FIXME_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Freebase-of-people-places-and-things.yml>`_]
-        
-* |OK_ICON| `German Political Speeches Corpus - Collection of political speeches from the German [...] <http://adrien.barbaresi.eu/corpora/speeches/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/German-Political-Speeches-Corpus.yml>`_]
-        
-* |FIXME_ICON| `Google Books Ngrams (2.2TB) <https://aws.amazon.com/datasets/google-books-ngrams/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Google-Books-Ngrams-2.2TB.yml>`_]
-        
-* |OK_ICON| `Google MC-AFP - Generated based on the public available Gigaword dataset using Paragraph Vectors <https://github.com/google/mcafp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Google-MC-AFP.yml>`_]
-        
-* |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Google-Web-5gram-1TB-2006.yml>`_]
-        
-* |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Gutenberg-eBooks-List.yml>`_]
-        
-* |FIXME_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
-        
-* |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a single speaker reading [...] <https://keithito.com/LJ-Speech-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/LJ-Speech.yml>`_]
-        
-* |FIXME_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset that we are [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/M-AILABS-Speech.yml>`_]
-        
-* |OK_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/MS-MARCO.yml>`_]
-        
-* |OK_ICON| `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://mattr1.github.io/mctest/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Machine-Comprehension-Test-MCTest-of-text-from-Microsoft-Research.yml>`_]
-        
-* |OK_ICON| `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Machine-Translation-of-European-languages.yml>`_]
-        
-* |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction <http://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
-        
-* |OK_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
-        
-* |OK_ICON| `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Multi-Domain-Sentiment-Dataset-version-2.0.yml>`_]
-        
-* |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
-        
-* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
-        
-* |FIXME_ICON| `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
-        
-* |OK_ICON| `POS/NER/Chunk annotated data <https://github.com/aritter/twitter_nlp/tree/master/data/annotated>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/POS-NER-Chunk-annotated-data.yml>`_]
-        
-* |FIXME_ICON| `Personae Corpus <http://www.clips.uantwerpen.be/datasets/personae-corpus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Personae-Corpus.yml>`_]
-        
-* |FIXME_ICON| `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/SMS-Spam-Collection-in-English.yml>`_]
-        
-* |OK_ICON| `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/SaudiNewsNet-Collection-of-Saudi-Newspaper-Articles-Arabic-30K-articles.yml>`_]
-        
-* |OK_ICON| `Stanford Question Answering Dataset (SQuAD) <https://rajpurkar.github.io/SQuAD-explorer/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Stanford-Question-Answering-Dataset-SQuAD.yml>`_]
-        
-* |OK_ICON| `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/USENET-postings-corpus-of-2005~2011.yml>`_]
-        
-* |OK_ICON| `Universal Dependencies <http://universaldependencies.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Universal-Dependencies.yml>`_]
-        
-* |OK_ICON| `Webhose - News/Blogs in multiple languages <https://webhose.io/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Webhose.yml>`_]
-        
-* |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
-        
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
-        
-* |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
-        
-* |OK_ICON| `Wordbank - Open, de-identified database of vocabulary development from 84,138 children and [...] <http://wordbank.stanford.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wordbank.yml>`_]
-        
-* |OK_ICON| `WorldTree Corpus of Explanation Graphs for Elementary Science Questions - a corpus of [...] <http://www.cognitiveai.org/explanationbank>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Worldtree-Explanation-Corpus.yml>`_]
-    
 PublicDomains
 -------------
         
